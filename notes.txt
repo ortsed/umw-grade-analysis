@@ -1,0 +1,14 @@
+
+Helen
+1. if STEM fields had different grade distributions than traditional liberal arts subjects, 
+
+4. Has there been a change in grade distributions over the 10 years of the dataset. 
+
+
+Me
+2. Did large classes (more than 32 students, which is the 75th percentile of enrollment) had different grade distribution than smaller classes, 
+
+ - Weighted Averages
+
+3. Does the time of day (before or after lunch) make a difference in grades, 
+
