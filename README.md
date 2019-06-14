@@ -1,4 +1,4 @@
-## Analysis of Grade Distributions of the University of Wisoncsin, Madison.
+## Analysis of Grade Distributions of the University of Wisconsin, Madison.
 
 As part of our second project on hypothesis testing for Flatiron, we chose to look at the Kaggle dataset on grades from the University of Wisconsin.
 
